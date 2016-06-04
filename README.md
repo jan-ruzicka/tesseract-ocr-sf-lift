@@ -1,5 +1,5 @@
 # tesseract-ocr-sf-lift
-This is a repository for settings used for covering of reository tesseract-ocr from CVS on SourceForge.net to Git.
+This is a repository for settings used for converting of repository tesseract-ocr from CVS on SourceForge.net to Git.
 
 
 The `make -f conversion.mk` should do the trick.
